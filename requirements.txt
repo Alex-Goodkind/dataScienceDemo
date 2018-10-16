@@ -1,3 +1,2 @@
-datascienceDemo
 plotly==3.3.0
 pandas==0.23.4
